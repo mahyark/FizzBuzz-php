@@ -11,13 +11,6 @@ final class ExampleTest extends TestCase
 {
 
     /**
-     * @before
-     */
-    protected function setUp()
-    {
-    }
-
-    /**
      * @test
      */
     public function trueAssertion()
